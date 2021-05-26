@@ -2,6 +2,9 @@
 PresentID Face mask detection API can detect whether a person is wearing a mask.
 This service can recognize all the faces in the image and say whether people have masks or not!
 
+![mask-myths 1](https://user-images.githubusercontent.com/63470748/119659107-18050300-be43-11eb-8fec-e4af2e6f1831.jpg)
+
+
 **Input:**
 - Image file
 - Image URL link
